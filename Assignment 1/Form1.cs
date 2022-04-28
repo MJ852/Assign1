@@ -17,7 +17,7 @@ namespace Assignment_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("I am Mary Joyce F. Calangian","Hello Everyone!");
+            MessageBox.Show("Hello! I am Mary Joyce F. Calangian","User_1");
         }
     }
 }
